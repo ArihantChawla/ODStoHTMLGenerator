@@ -3,7 +3,7 @@ text2 = "I:txt:First Name"
 text3 = "L:DOB"
 text4 = "I:d:DOB"
 typeDict = {"b":"button","c":"checkbox","col":"color","d":"date","e":"email","f":"file","h":"hidden","i":"image","m":"month","n":"number","p":"password","o":"radio","g":"range","r":"reset","srch":"search","s":"submit","tel":"tel","txt":"text","t":"time","u":"url","w":"week"}
-List = []
+List = []  # enteries are rows
 List.append(text1)
 List.append(text2)
 List.append(text3)
